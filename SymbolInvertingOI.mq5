@@ -1,5 +1,5 @@
-#property copyright "Copyright 2009-2017, MetaQuotes Software Corp."
-#property link      "http://www.mql5.com"
+#property copyright "Copyright 2021-2021, Anael Medeiros."
+#property link      "http://github.com/anaelj"
 #property version   "1.00"
 
 #include <Trade\Trade.mqh>
